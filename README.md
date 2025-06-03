@@ -1,4 +1,5 @@
 #**Sales Visualization**
+
 **Overall Metrics**
 Profit: $44.17 million
 Unit Sold: 512,871
